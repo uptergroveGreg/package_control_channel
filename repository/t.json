@@ -26,6 +26,18 @@
 			]
 		},
 		{
+			"name": "Tab Order",
+			"details": "https://github.com/uptergroveGreg/TabOrder",
+			"homepage": "https://github.com/uptergroveGreg/TabOrder",
+			"author": "Ross Isenegger & Greg Clarke",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/uptergroveGreg/TabOrder/tree/master"
+				}
+			]
+		},
+		{
 			"name": "Tabright",
 			"details": "https://github.com/stylishmedia/Tabright",
 			"homepage": "https://github.com/stylishmedia/Tabright",
